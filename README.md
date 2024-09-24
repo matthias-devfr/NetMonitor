@@ -1,25 +1,22 @@
-# TSSR
-Projets Formation TSSR
-
 # NetMonitor
 
-## Overview
-NetMonitor is a simple yet powerful tool designed to monitor and analyze network traffic in real-time. Its primary goal is to help network administrators and IT technicians detect, track, and resolve network issues efficiently. 
+## Présentation
+NetMonitor est un outil simple mais puissant conçu pour surveiller et analyser le trafic réseau en temps réel. Son principal objectif est d'aider les administrateurs réseau et les techniciens informatiques à détecter, suivre et résoudre les problèmes de réseau de manière efficace.
 
-## Features
-- **Real-time network traffic monitoring**: Get live insights on the network's activity.
-- **Detailed performance metrics**: Analyze latency, bandwidth usage, and packet loss.
-- **Custom alerts**: Set up alerts to notify you of any unusual activity or potential issues.
-- **User-friendly interface**: Easily visualize network data through a simple web dashboard.
-- **Compatibility**: Works across multiple network environments (LAN, WAN, etc.).
+## Fonctionnalités
+- **Surveillance du trafic en temps réel** : Obtenez des informations en direct sur l'activité du réseau.
+- **Analyse détaillée des performances** : Analysez la latence, l'utilisation de la bande passante et la perte de paquets.
+- **Alertes personnalisées** : Configurez des alertes pour être notifié en cas d'activité inhabituelle ou de problèmes potentiels.
+- **Interface conviviale** : Visualisez facilement les données réseau via un tableau de bord web simple.
+- **Compatibilité** : Fonctionne sur divers environnements réseau (LAN, WAN, etc.).
 
 ## Technologies
-- **Backend**: Python, Flask
-- **Frontend**: HTML, CSS, JavaScript (React)
-- **Database**: SQLite for storing logs and metrics
-- **Deployment**: Dockerized for ease of deployment
+- **Backend** : Python, Flask
+- **Frontend** : HTML, CSS, JavaScript (React)
+- **Base de données** : SQLite pour le stockage des journaux et des métriques
+- **Déploiement** : Dockerisé pour un déploiement facile
 
-## How to Install
-1. Clone the repository:
+## Comment installer
+1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/your-username/NetMonitor.git
+   git clone https://github.com/votre-utilisateur/NetMonitor.git
